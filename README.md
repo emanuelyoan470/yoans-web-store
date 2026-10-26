@@ -1,5 +1,11 @@
 # Yoan's Web Store: Restaurador de la Chrome Web Store para ChromeOS 93
 
+## ⬇️ Descarga la Extensión
+**[Haz clic aquí para descargar la última versión (v1.0.0)](https://github.com/emanuelyoan470/yoans-web-store/releases/latest)**
+*(Busca el archivo `chromewebstore.zip` en la sección de descargas).*
+
+---
+
 ## 📖 Resumen Ejecutivo del Proyecto
 **Yoan's Web Store** es una adaptación de código abierto de la reconocida extensión *Chromium Web Store*. Ha sido desarrollada y modificada con un objetivo único y altamente específico: devolver la funcionalidad de instalación de la Chrome Web Store a navegadores basados en Chromium que han quedado obsoletos, centrándose especialmente en **dispositivos con ChromeOS 93**.
 
